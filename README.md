@@ -1,6 +1,6 @@
 # @plasius/game-audio-spatial
 
-[![npm version](https://img.shields.io/npm/v/%40plasius%2Fgame-audio-spatial.svg)](https://www.npmjs.com/package/@plasius/game-audio-spatial)
+[![npm version](https://img.shields.io/npm/v/@plasius/game-audio-spatial.svg)](https://www.npmjs.com/package/@plasius/game-audio-spatial)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/Plasius-LTD/game-audio-spatial/ci.yml?branch=main&label=build&style=flat)](https://github.com/Plasius-LTD/game-audio-spatial/actions/workflows/ci.yml)
 [![coverage](https://img.shields.io/codecov/c/github/Plasius-LTD/game-audio-spatial)](https://codecov.io/gh/Plasius-LTD/game-audio-spatial)
 [![License](https://img.shields.io/github/license/Plasius-LTD/game-audio-spatial)](./LICENSE)
